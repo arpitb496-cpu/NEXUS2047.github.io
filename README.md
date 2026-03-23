@@ -3,8 +3,8 @@
 
 > *An immersive, scroll-driven storytelling website about the Future of Technology*
 
-🔗 **Live Demo:** [Your Deployed URL Here]  
-📁 **GitHub Repo:** [Your Repo URL Here]
+🔗 **Live Demo:** https://enchanting-capybara-d897a8.netlify.app/#hero  
+
 
 ---
 
